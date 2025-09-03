@@ -1,9 +1,9 @@
 # 🪦 Journey of Life – Digital Transformation for Funeral Homes
 
-> **Repository**: `journeyoflife/funeral-services-eu`  
+> **Repository**: `journeyoflife/funeral-services`  
 > **Organization**: [github.com/JourneyOfLife](https://github.com/JourneyOfLife)  
-> **Official Site**: [journeyoflife.eu](https://journeyoflife.eu)  
-> **Contact**: JourneyOfLife1@gmail.com
+> **Official Site**: [journeyoflife.eu](https://journey-of-life.site)  
+> **Contact**: journey4oflife@gmail.com
 
 ---
 
